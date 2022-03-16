@@ -28,6 +28,7 @@ static size_t calcNumChunks(uint64_t);
 
 public:
 
+
 TAGE_GHR();
 
 /**
